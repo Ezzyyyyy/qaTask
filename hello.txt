@@ -1,4 +1,2 @@
 Hello QA!
 Hello QA!
-
-Bye Bye
